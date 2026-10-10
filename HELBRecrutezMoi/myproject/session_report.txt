@@ -1,0 +1,18 @@
+Kate vs (Eve) : 66
+(Kate) vs Roger : 0
+Kate vs (Roger) : 0
+Alice vs (Roger) : -56
+(Kate) vs Roger : 0
+(Alice) vs Roger : 56
+(Kate) vs Roger : 0
+(Alice) vs Roger : 56
+(Alice) vs Roger : 56
+(Alice) vs Roger : 56
+(Hugo) vs Grace : -6
+(Felicity) vs Eve : -3
+Dave vs (Cesar) : -4
+(Kate) vs Bob : -60
+----------------------
+Current Score : 161
+Bonus Score : 0
+Final Score : 161
